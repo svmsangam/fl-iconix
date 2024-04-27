@@ -2435,3 +2435,11 @@ ul.lik li a:hover {
 	top: inherit;
 	bottom: 10px;
 }
+
+.careers-box{
+	box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.footer-info{
+	justify-content: space-between;
+}
